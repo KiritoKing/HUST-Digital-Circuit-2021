@@ -1,38 +1,25 @@
 # HUST_Digital_circuit 数字电路实验
 
 #### 介绍
+
 华中科技大学数字电路实验（计算机专业）
 仅供参考，如有错误欢迎指正 QQ：46641980
 
-#### 软件架构
-软件架构说明
+#### 实验1/2/3：基础运算器
 
+这个比较简单就不多说明了，自己搜资料就行
 
-#### 安装教程
+**实验一加法器做的时候忘了封装了，记得封装**
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 实验4：门禁系统
 
-#### 使用说明
+#### 实验5：电子钟
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+##### 12/24进制转换
 
-#### 参与贡献
+在写的时候没有看到12/24互转的要求，就在最外层封装里做的转换
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+具体实现方法是底层都用24小时实现，通过24转12来实现输出
 
+更优的输出方法是封装在计数器内部，有兴趣可以实现一下（注意转换时要输出进位脉冲来反转AM/PM）
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
