@@ -1,5 +1,7 @@
 # HUST_Digital_circuit 数字电路实验
 
+本实验首发于Gitee
+
 #### 介绍
 
 华中科技大学数字电路实验 计算机专业
